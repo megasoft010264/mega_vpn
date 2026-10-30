@@ -1,6 +1,7 @@
 {
   "zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF",
-  "vpngate_json_url": "https://6kmfi6hp.github.io/vpngate-meridian/json/data.json",
+  "_vpngate_json_url": "https://6kmfi6hp.github.io/vpngate-meridian/json/data.json",
+  "vpngate_zip_url": "https://codeload.github.com/9xN/auto-ovpn/zip/refs/heads/main",
   "ads_enabled": false,
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
