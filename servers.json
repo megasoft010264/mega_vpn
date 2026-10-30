@@ -1,11 +1,11 @@
 {
   "zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF",
-  "ads_enabled": true,
+  "ads_enabled": false,
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
   "vpn_username": "vpnbook",
   "vpn_password": "6heexyz",
-  "youtube_enabled": true,
+  "youtube_enabled": false,
   "youtube_video_id": "dQw4w9WgXcQ",
   
   "vpngate_zip_url": "https://github.com/9xN/auto-ovpn/archive/refs/heads/main.zip",
