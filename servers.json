@@ -1,5 +1,6 @@
 {
   "zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF",
+  "vpngate_json_url": "https://6kmfi6hp.github.io/vpngate-meridian/json/data.json",
   "ads_enabled": false,
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
@@ -7,7 +8,5 @@
   "vpn_password": "6heexyz",
   "youtube_enabled": false,
   "youtube_video_id": "dQw4w9WgXcQ",
-  
-  "vpngate_json_url": "https://6kmfi6hp.github.io/vpngate-meridian/json/data.json",
   "premium_zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF"
 }
