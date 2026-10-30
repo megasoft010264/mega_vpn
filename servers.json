@@ -1,10 +1,13 @@
 {
   "zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF",
   "ads_enabled": true,
-  "admob_banner_id": "ca-app-pub-5391409435481459/7669173154",
-  "admob_rewarded_id": "ca-app-pub-5391409435481459/8298719384",
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
   "vpn_username": "vpnbook",
   "vpn_password": "6heexyz",
   "youtube_enabled": true,
-  "youtube_video_id": "jGdiPCavHb8"
+  "youtube_video_id": "dQw4w9WgXcQ",
+  
+  "vpngate_zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF",
+  "premium_zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF"
 }
