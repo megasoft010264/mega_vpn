@@ -6,6 +6,7 @@
   "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
   "vpn_username": "vpnbook",
   "vpn_password": "6heexyz",
+  "vpnbook_password_url": "https://raw.githubusercontent.com/ERM073/vpnbook-password/refs/heads/main/vpn_password.txt",
   "youtube_enabled": false,
   "youtube_video_id": "dQw4w9WgXcQ",
   "premium_zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF"
