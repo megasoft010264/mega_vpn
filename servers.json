@@ -5,6 +5,7 @@
   "ads_enabled": false,
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+  "admob_interstitial_id": "ca-app-pub-...", 
   "vpn_username": "vpnbook",
   "vpnbook_password_url": "https://raw.githubusercontent.com/ERM073/vpnbook-password/refs/heads/main/vpn_password.txt",
   "youtube_enabled": false,
