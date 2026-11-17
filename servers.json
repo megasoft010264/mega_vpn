@@ -2,18 +2,18 @@
   "zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF",
   "vpngate_live_json_url": "https://6kmfi6hp.github.io/vpngate-meridian/json/data.json",
   "vpngate_ovpn_zip_url": "https://codeload.github.com/9xN/auto-ovpn/zip/refs/heads/main",
-  "ads_enabled": true,
+  "ads_enabled": false,
   "admob_banner_id": "ca-app-pub-5391409435481459/7669173154",
   "admob_rewarded_id": "ca-app-pub-5391409435481459/8298719384",
   "admob_interstitial_id": "ca-app-pub-5391409435481459/8107304192", 
   "vpn_username": "vpnbook",
   "vpnbook_password_url": "https://raw.githubusercontent.com/ERM073/vpnbook-password/refs/heads/main/vpn_password.txt",
-  "youtube_enabled": true,
+  "youtube_enabled": false,
   "youtube_video_id": "jGdiPCavHb8",
   "premium_zip_url": "https://drive.google.com/uc?export=download&id=16EviLGfuDUpnPyijwfwCo9YR0BSv3dYm",
   "auto_disconnect_minutes": 15,
   "subscription_enabled": true,
   "trial_enabled": true,
   "premium_subscription_id": "premium_monthly",
-  "premium_reward_ads_count": 2
+  "premium_reward_ads_count": 1
 }
