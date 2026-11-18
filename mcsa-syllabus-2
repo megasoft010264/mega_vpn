@@ -21,7 +21,7 @@
 9- Computer Account:- default machine account qouta change (10) pref 0 , ADSI Edit (Active Directory Service Interfaces) , join specific pc with specific user , comp pass expiration and trust fail , reset account , sec channel (known problem) , period to break secure channel and disable it , redircmp ,    
 10- WinRM and Remote Desktop :- remote mgmt , winrm , RDP , server manager , mmc , WAC , powershell ,  winrm quickconfig , winrs , 3389 , gpo edit ability to login remote normal user , save cred , rdp con mang , more 2 connections , remote assistant , 
 ----------------------------------------------------
-11-Server Manager and mmc
+11-Server Manager and mmc :- administrative tools , admin pack = RSAT , remote active directory , remote server manager , remote powershell , mmc , 
 12-Windows Admin Center (WAC)
 13- Remotely Administering Windows Server 2019 Core
 14- Create User Delegation and  Custom Management Tool
