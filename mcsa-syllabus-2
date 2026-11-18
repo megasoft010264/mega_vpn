@@ -1,0 +1,96 @@
+ ** Windows Server 2019 syllabus:--
+
+-Windows Server 2019  Orientation
+-----------------------------------------------------
+1-Windows Server 2019 Installation:- virtualization technology introduction and workshop + installing windows server and about its types
+
+-----------------------------------------------------
+	
+2-Windows 10 Installation
+3-Windows Core Installation and Configuration
+----------------------------------------------------
+4- Active Directory Installation:- workgroup ,domain , forest , parent , child domain , ntds , sysvol , sam file , local users and groups , roles and features , install and remove featuresand roles powershell for win core
+----------------------------------------------------
+5-Join Domain:- containers , OUs , accident deletion , deletion of OU with protection , add columns to view,default user joining pcs count (can be changed) , NetBIOS name and FQDN , user profiles and roamin profiles, whoami & hostname, 	dejoin domain .
+6-Offline Join Domain :- just join not login , system root , 
+----------------------------------------------------
+7-Create Domain Users :- local user & domain user , user properties description ,logon name & NetBIOS login pree 2000 , password features , password period , reversible encryption , smart card login brief , logon hours and logon to , locking user brief , AD Administrative center , UPN , protect user deletion , SID , AD recycle bin 2008 R2 , domain fun raise , forest fn raise , deleted objects , search console , search & filteration in admin center , unraise domain and forest fn lvl .
+----------------------------------------------------
+8-User Automation:- template user , csv , sam account , UPN , CN , DN , UAC , import &export users csvde-ldifde , dsadd , .bat file , pause , % method fantastic , dsmove , dsrm , dsmod , dsadd ou , ps get-aduser , filter , properties , 
+----------------------------------------------------
+9- Computer Account:- default machine account qouta change (10) pref 0 , ADSI Edit (Active Directory Service Interfaces) , join specific pc with specific user , comp pass expiration and trust fail , reset account , sec channel (known problem) , period to break secure channel and disable it , redircmp ,    
+10- WinRM and Remote Desktop :- remote mgmt , winrm , RDP , server manager , mmc , WAC , powershell ,  winrm quickconfig , winrs , 3389 , gpo edit ability to login remote normal user , save cred , rdp con mang , more 2 connections , remote assistant , 
+----------------------------------------------------
+11-Server Manager and mmc
+12-Windows Admin Center (WAC)
+13- Remotely Administering Windows Server 2019 Core
+14- Create User Delegation and  Custom Management Tool
+15- Active Directory Partitions and Additional DC
+16-Operation Master Roles
+17-Demote Domain Controller
+18-Read-only Domain Controller (RODC)
+19- Install From Media (IFM)
+20- Domain Controller upgrade from windows server 2016
+21-Install DC Using Answer File
+22-Disk Management
+23-Storage Space
+24- Storage Tier
+25-NTFS Permissions
+26-Sharing Permissions
+27-Map Network Drive and Offline Sharing
+28-Data De duplication
+29- iSCSI
+30-DHCP server (part 1)
+31-DHCP fail over (part 2)
+32-DNS (Part1)
+33- DNS Part2 (Zone Types)
+34-DNS (Part3)
+35- Revision on Active Directory...............
+36-Configuring a New Domain Tree in an Existing Forest
+37-Adding a Child Domain
+38-Configuring Trust Relationships
+39-Active Directory Groups
+40-Group Policy Essentials and Local GPO
+41- Group Policy Central Store and Refresh
+42-Group Policy Security and Fine Grained Password and Restricted Groups
+43- Group Policy Configuring Trust Relationships and Software Deployment
+44-Group Policy login scripts and Preference and Software Restrictions
+45-Active Directory Intra-Site Replication
+46-Active Directory Inter Site Replication
+47-Shadow Copy and Data Backup
+48-Disaster Recovery System State Backup
+49- Disaster Recovery Recover A User Using LDAP Protocol.
+50-Disaster Recovery Bare Metal Backup
+51-Windows Deployment Server WDS (Part1)
+52-Windows Deployment Server WDS (Part2)
+53-Windows Deployment Server WDS (Part3)
+54-Windows Deployment Server WDS (Part4) (Reference Image)
+55-Microsoft Deployment Toolkit Server MDT (Part1)
+56-  Microsoft Deployment Toolkit Server MDT (Part2)
+57-Hyper V Server
+58-IIS and FTP Services
+59- NLB (Network Load Balance)
+60- Failover Cluster
+61-Hyper-V Replication using Failover Cluster
+62- WSUS server
+63- WSUS Using SSL
+64- Windows Server 2019  FSRM (Part1)Quota
+65- FSRM (Part2) File Screening and Storage Reports
+66- FSRM (Part3) Classification
+67- FSRM (Part4) Access Denied Assistance and File Management Tasks
+68- Dynamic Access Control (DAC)
+69- Branch Cache
+70- Work Folders
+71- Print Servers
+72- DFS Name Space
+73- DFS Replication
+74- NAT Server
+75- VPN Theory
+76- Remote Access VPN
+77-CMAK (Connection Manager Administration Kit)
+78- NPS Server (RADIUS Server)
+79- SSTP VPN
+80- Routing using Windows Server 2019
+81- Site to Site VPN
+82- IPAM Server
+83-  NIC Teaming
