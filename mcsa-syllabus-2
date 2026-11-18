@@ -22,8 +22,9 @@
 10- WinRM and Remote Desktop :- remote mgmt , winrm , RDP , server manager , mmc , WAC , powershell ,  winrm quickconfig , winrs , 3389 , gpo edit ability to login remote normal user , save cred , rdp con mang , more 2 connections , remote assistant , 
 ----------------------------------------------------
 11-Server Manager and mmc :- administrative tools , admin pack = RSAT , remote active directory , remote server manager , remote powershell , mmc , 
-12-Windows Admin Center (WAC)
-13- Remotely Administering Windows Server 2019 Core
+12-Windows Admin Center (WAC)(not very important):- traffic encrypted even not domain , windows admin center.msi , must not DC , manage other machines through web , 
+13- Remotely Administering Windows Server 2019 Core (just know about it ) :- netsh , netdom , networking and joining domain (cmd) , add-computer (powershell) , sconfig , networking (powershell) ,  enter-pssession , windows-feature (get-install) , exit-pssession ,  iis brief , 
+----------------------------------------------------
 14- Create User Delegation and  Custom Management Tool
 15- Active Directory Partitions and Additional DC
 16-Operation Master Roles
