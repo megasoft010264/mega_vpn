@@ -1,7 +1,7 @@
 {
   "_zip_url": "https://drive.google.com/uc?export=download&id=1awjlQXSseXB7lNSgDRcVxLc2wBdKbfrF",
-  "vpngate_live_json_url": "https://6kmfi6hp.github.io/vpngate-meridian/json/data.json",
-  "vpngate_ovpn_zip_url": "https://codeload.github.com/9xN/auto-ovpn/zip/refs/heads/main",
+  "_vpngate_live_json_url": "https://6kmfi6hp.github.io/vpngate-meridian/json/data.json",
+  "_vpngate_ovpn_zip_url": "https://codeload.github.com/9xN/auto-ovpn/zip/refs/heads/main",
   "ads_enabled": false,
   "admob_banner_id": "ca-app-pub-5391409435481459/7669173154",
   "admob_rewarded_id": "ca-app-pub-5391409435481459/8298719384",
