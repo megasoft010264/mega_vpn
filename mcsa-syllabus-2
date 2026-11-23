@@ -29,9 +29,9 @@
 15- Active Directory Partitions and Additional DC:- NTDS , ntds.dit (DB of AD) , 4 partitions , Domain partition , configuration partition , schema partition , application partition , AD users & comps , physical location of AD , AD sites & services , schema , sites for additional or child , 
 		replication same site or 2 site for AD , schema ( Design of AD ) ** dangerous ** , add schema to console ( must be regestired ) , from mmc but after reg command , add attribute , object id script , dnsmgmt.msc ( application ) , rep time same site diff sites ,  
 		DNS ( As a service locator important ) , SID (sysprep important in imaging or cloning ) , note local user disapear for ADDC , GC Global catalog (search engine ) , ntds under server under site mean it is DC , 
-		repadmin ( replica ) , /showrepl , ADSI console ( show partitions ) , 
+		repadmin ( replica ) , /showrepl , ADSI console ( show partitions ) 
 ----------------------------------------------------
-16-Operation Master Roles
+16-Operation Master Roles (roles of DC ):- Domain naming master role , scema master role , PDC emulator , RID , infrastructure , 
 17-Demote Domain Controller
 18-Read-only Domain Controller (RODC)
 19- Install From Media (IFM)
