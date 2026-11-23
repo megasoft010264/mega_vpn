@@ -28,6 +28,7 @@
 14- Create User Delegation and  Custom Management Tool:- deleegation levels (domain , ou , container) , using security permissions of ou , custom view management tool , new window from here , new taskpad view , 
 15- Active Directory Partitions and Additional DC:- NTDS , ntds.dit (DB of AD) , 4 partitions , Domain partition , configuration partition , schema partition , application partition , AD users & comps , physical location of AD , AD sites & services , schema , sites for additional or child , 
 		replication same site or 2 site for AD , schema ( Design of AD ) ** dangerous ** , add schema to console , from mmc but after reg command , add attribute , object id script , dnsmgmt.msc ( application ) , rep time same site diff sites ,  
+----------------------------------------------------
 16-Operation Master Roles
 17-Demote Domain Controller
 18-Read-only Domain Controller (RODC)
